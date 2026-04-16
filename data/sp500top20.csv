@@ -1,0 +1,761 @@
+Year,Rank,Ticker,Company,Market Cap,Sector
+1989,1,XOM,Exxon Mobil,62590000000.0,Energy
+1989,2,IBM,IBM,52030000000.0,Technology
+1989,3,GE,General Electric,35780000000.0,Industrials
+1989,4,BMY,Bristol-Myers Squibb,28000000000.0,Health Care
+1989,5,MRK,Merck,27580000000.0,Health Care
+1989,6,KO,Coca-Cola,26370000000.0,Consumer Defensive
+1989,7,WMT,Walmart,25390000000.0,Consumer Defensive
+1989,8,PG,Procter & Gamble,22990000000.0,Consumer Defensive
+1989,9,VZ,Verizon Communications,21990000000.0,Communication Services
+1989,10,JNJ,Johnson & Johnson,19770000000.0,Health Care
+1989,11,LLY,Eli Lilly,19060000000.0,Health Care
+1989,12,PEP,PepsiCo,16860000000.0,Consumer Defensive
+1989,13,DIS,Walt Disney,15170000000.0,Communication Services
+1989,14,T,AT&T,14370000000.0,Communication Services
+1989,15,MMM,3M,14360000000.0,Industrials
+1989,16,AIG,AIG,14010000000.0,Financial Services
+1989,17,BA,Boeing,13680000000.0,Industrials
+1989,18,MCD,McDonald’s,12770000000.0,Consumer Cyclical
+1989,19,PFE,Pfizer,10900000000.0,Health Care
+1989,20,SLB,Schlumberger,10370000000.0,Energy
+1990,1,XOM,Exxon Mobil,64430000000.00001,Energy
+1990,2,IBM,IBM,61680000000.0,Technology
+1990,3,WMT,Walmart,34229999999.999996,Consumer Defensive
+1990,4,,Bristol-Myers Squibb,33400000000.0,Health Care
+1990,5,MRK,Merck,31310000000.0,Health Care
+1990,6,KO,Coca-Cola,31070000000.0,Consumer Defensive
+1990,7,GE,General Electric,30000000000.0,Industrials
+1990,8,PG,Procter & Gamble,29790000000.0,Consumer Defensive
+1990,9,JNJ,Johnson & Johnson,23900000000.0,Health Care
+1990,10,VZ,Verizon Communications,21080000000.0,Communication Services
+1990,11,PEP,PepsiCo,20500000000.0,Consumer Defensive
+1990,12,LLY,Eli Lilly,19580000000.0,Health Care
+1990,13,,Boeing,15590000000.0,Industrials
+1990,14,,3M,15170000000.0,Industrials
+1990,15,,Walt Disney,13510000000.0,Communication Services
+1990,16,AIG,AIG,13490000000.0,Financial Services
+1990,17,PFE,Pfizer,12670000000.0,Health Care
+1990,18,T,AT&T,12580000000.0,Communication Services
+1990,19,SLB,Schlumberger,12240000000.0,Energy
+1990,20,,Altria Group,11270000000.0,Consumer Defensive
+1991,1,XOM,Exxon Mobil,75610000000.0,Energy
+1991,2,WMT,Walmart,67610000000.0,Consumer Defensive
+1991,3,MRK,Merck,57940000000.0,Health Care
+1991,4,KO,Coca-Cola,53330000000.0,Consumer Defensive
+1991,5,IBM,IBM,48540000000.0,Technology
+1991,6,,Bristol-Myers Squibb,43640000000.0,Health Care
+1991,7,GE,General Electric,39570000000.0,Industrials
+1991,8,JNJ,Johnson & Johnson,38140000000.0,Health Care
+1991,9,PG,Procter & Gamble,31520000000.0,Consumer Defensive
+1991,10,PEP,PepsiCo,26730000000.0,Consumer Defensive
+1991,11,PFE,Pfizer,26270000000.0,Health Care
+1991,12,LLY,Eli Lilly,24420000000.0,Health Care
+1991,13,VZ,Verizon Communications,19110000000.0,Communication Services
+1991,14,,Fannie Mae,18760000000.0,Financial Services
+1991,15,,Altria Group,17350000000.0,Consumer Defensive
+1991,16,AIG,AIG,17280000000.0,Financial Services
+1991,17,,3M,16800000000.0,Industrials
+1991,18,,Boeing,16300000000.0,Industrials
+1991,19,,Walt Disney,14970000000.0,Communication Services
+1991,20,,Kellogg Company,14750000000.0,Consumer Defensive
+1992,1,XOM,Exxon Mobil,75920000000.0,Energy
+1992,2,WMT,Walmart,73550000000.0,Consumer Defensive
+1992,3,KO,Coca-Cola,54720000000.0,Consumer Defensive
+1992,4,MRK,Merck,44660000000.0,Health Care
+1992,5,GE,General Electric,43780000000.0,Industrials
+1992,6,PG,Procter & Gamble,36210000000.0,Consumer Defensive
+1992,7,,Bristol-Myers Squibb,33280000000.0,Health Care
+1992,8,PEP,PepsiCo,33159999999.999996,Consumer Defensive
+1992,9,JNJ,Johnson & Johnson,33100000000.0,Health Care
+1992,10,IBM,IBM,27500000000.0,Technology
+1992,11,,Walt Disney,23030000000.0,Communication Services
+1992,12,PFE,Pfizer,22360000000.0,Health Care
+1992,13,HD,Home Depot,22320000000.0,Consumer Cyclical
+1992,14,VZ,Verizon Communications,22240000000.0,Communication Services
+1992,15,,Fannie Mae,20790000000.0,Financial Services
+1992,16,AIG,AIG,20310000000.0,Financial Services
+1992,17,INTC,Intel,18210000000.0,Technology
+1992,18,LLY,Eli Lilly,17780000000.0,Health Care
+1992,19,,3M,17740000000.0,Industrials
+1992,20,,McDonald’s,17720000000.0,Consumer Cyclical
+1993,1,XOM,Exxon Mobil,78400000000.0,Energy
+1993,2,KO,Coca-Cola,57900000000.0,Consumer Defensive
+1993,3,WMT,Walmart,57460000000.0,Consumer Defensive
+1993,4,GE,General Electric,53710000000.0,Industrials
+1993,5,MRK,Merck,38780000000.0,Health Care
+1993,6,PG,Procter & Gamble,38610000000.0,Consumer Defensive
+1993,7,PEP,PepsiCo,32659999999.999996,Consumer Defensive
+1993,8,IBM,IBM,31380000000.0,Technology
+1993,9,JNJ,Johnson & Johnson,28860000000.0,Health Care
+1993,10,,Bristol-Myers Squibb,28390000000.0,Health Care
+1993,11,CVX,Chevron,28380000000.0,Energy
+1993,12,INTC,Intel,25920000000.0,Technology
+1993,13,VZ,Verizon Communications,25850000000.0,Communication Services
+1993,14,AIG,AIG,23070000000.0,Financial Services
+1993,15,,Walt Disney,22920000000.0,Communication Services
+1993,16,,Fannie Mae,21310000000.0,Financial Services
+1993,17,PFE,Pfizer,21000000000.0,Health Care
+1993,18,,McDonald’s,20160000000.0,Consumer Cyclical
+1993,19,,3M,18800000000.0,Industrials
+1993,20,T,AT&T,18660000000.0,Communication Services
+1994,1,XOM,Exxon Mobil,75420000000.0,Energy
+1994,2,KO,Coca-Cola,66319999999.99999,Consumer Defensive
+1994,3,GE,General Electric,52230000000.0,Industrials
+1994,4,WMT,Walmart,48840000000.0,Consumer Defensive
+1994,5,MRK,Merck,43250000000.0,Health Care
+1994,6,PG,Procter & Gamble,42140000000.0,Consumer Defensive
+1994,7,IBM,IBM,41230000000.0,Technology
+1994,8,MSFT,Microsoft,35480000000.0,Technology
+1994,9,JNJ,Johnson & Johnson,35200000000.0,Health Care
+1994,10,CVX,Chevron,29070000000.0,Energy
+1994,11,PEP,PepsiCo,28730000000.0,Consumer Defensive
+1994,12,,Bristol-Myers Squibb,28130000000.0,Health Care
+1994,13,INTC,Intel,26470000000.0,Technology
+1994,14,AIG,AIG,25640000000.0,Financial Services
+1994,15,,Walt Disney,24140000000.0,Communication Services
+1994,16,PFE,Pfizer,23070000000.0,Health Care
+1994,17,VZ,Verizon Communications,21700000000.0,Communication Services
+1994,18,HD,Home Depot,20780000000.0,Consumer Cyclical
+1994,19,,McDonald’s,20430000000.0,Consumer Cyclical
+1994,20,,Fannie Mae,19840000000.0,Financial Services
+1995,1,XOM,Exxon Mobil,100740000000.0,Energy
+1995,2,KO,Coca-Cola,93200000000.0,Consumer Defensive
+1995,3,GE,General Electric,73570000000.0,Industrials
+1995,4,MRK,Merck,72730000000.0,Health Care
+1995,5,PG,Procter & Gamble,56510000000.0,Consumer Defensive
+1995,6,JNJ,Johnson & Johnson,55380000000.0,Health Care
+1995,7,MSFT,Microsoft,51980000000.0,Technology
+1995,8,WMT,Walmart,51060000000.0,Consumer Defensive
+1995,9,IBM,IBM,48720000000.0,Technology
+1995,10,INTC,Intel,47050000000.0,Technology
+1995,11,PEP,PepsiCo,43950000000.0,Consumer Defensive
+1995,12,,Bristol-Myers Squibb,41240000000.0,Health Care
+1995,13,PFE,Pfizer,37980000000.0,Health Care
+1995,14,AIG,AIG,36350000000.0,Financial Services
+1995,15,CVX,Chevron,34150000000.0,Energy
+1995,16,,Fannie Mae,33650000000.0,Financial Services
+1995,17,,McDonald’s,31430000000.0,Consumer Cyclical
+1995,18,LLY,Eli Lilly,31020000000.0,Health Care
+1995,19,,Walt Disney,30910000000.0,Communication Services
+1995,20,VZ,Verizon Communications,29250000000.0,Communication Services
+1996,1,KO,Coca-Cola,130560000000.0,Consumer Defensive
+1996,2,XOM,Exxon Mobil,121720000000.0,Energy
+1996,3,INTC,Intel,107550000000.0,Technology
+1996,4,MSFT,Microsoft,99410000000.0,Technology
+1996,5,GE,General Electric,97400000000.0,Industrials
+1996,6,MRK,Merck,86420000000.0,Health Care
+1996,7,IBM,IBM,73510000000.0,Technology
+1996,8,PG,Procter & Gamble,72530000000.0,Consumer Defensive
+1996,9,JNJ,Johnson & Johnson,66290000000.00001,Health Care
+1996,10,WMT,Walmart,52170000000.0,Consumer Defensive
+1996,11,,Bristol-Myers Squibb,51900000000.0,Health Care
+1996,12,PFE,Pfizer,50730000000.0,Health Care
+1996,13,,Walt Disney,47080000000.0,Communication Services
+1996,14,PEP,PepsiCo,45630000000.0,Consumer Defensive
+1996,15,CVX,Chevron,42450000000.0,Energy
+1996,16,AIG,AIG,42150000000.0,Financial Services
+1996,17,CSCO,Cisco Systems,41720000000.0,Technology
+1996,18,LLY,Eli Lilly,40370000000.0,Health Care
+1996,19,,Fannie Mae,39760000000.0,Financial Services
+1996,20,JPM,JPMorgan Chase,38490000000.0,Financial Services
+1997,1,KO,Coca-Cola,164750000000.0,Consumer Defensive
+1997,2,MSFT,Microsoft,157360000000.0,Technology
+1997,3,XOM,Exxon Mobil,150340000000.0,Energy
+1997,4,GE,General Electric,143390000000.0,Industrials
+1997,5,INTC,Intel,114370000000.0,Technology
+1997,6,MRK,Merck,113800000000.0,Health Care
+1997,7,PG,Procter & Gamble,106230000000.0,Consumer Defensive
+1997,8,IBM,IBM,95740000000.0,Technology
+1997,9,PFE,Pfizer,91440000000.0,Health Care
+1997,10,,Bristol-Myers Squibb,89430000000.0,Health Care
+1997,11,WMT,Walmart,88600000000.0,Consumer Defensive
+1997,12,JNJ,Johnson & Johnson,88600000000.0,Health Care
+1997,13,LLY,Eli Lilly,77350000000.0,Health Care
+1997,14,VZ,Verizon Communications,70660000000.0,Communication Services
+1997,15,,Walt Disney,67019999999.99999,Communication Services
+1997,16,AIG,AIG,63100000000.0,Financial Services
+1997,17,C,Citigroup,61690000000.0,Financial Services
+1997,18,,Fannie Mae,58940000000.0,Financial Services
+1997,19,CSCO,Cisco Systems,56040000000.0,Technology
+1997,20,PEP,PepsiCo,54450000000.0,Consumer Defensive
+1998,1,MSFT,Microsoft,348110000000.0,Technology
+1998,2,GE,General Electric,199820000000.0,Industrials
+1998,3,INTC,Intel,196520000000.0,Technology
+1998,4,WMT,Walmart,181060000000.0,Consumer Defensive
+1998,5,XOM,Exxon Mobil,177550000000.0,Energy
+1998,6,KO,Coca-Cola,165190000000.0,Consumer Defensive
+1998,7,IBM,IBM,161320000000.0,Technology
+1998,8,MRK,Merck,156560000000.0,Health Care
+1998,9,PFE,Pfizer,153290000000.0,Health Care
+1998,10,CSCO,Cisco Systems,145990000000.0,Technology
+1998,11,,Bristol-Myers Squibb,126660000000.0,Health Care
+1998,12,PG,Procter & Gamble,120130000000.0,Consumer Defensive
+1998,13,C,Citigroup,119280000000.0,Financial Services
+1998,14,JNJ,Johnson & Johnson,112730000000.0,Health Care
+1998,15,BAC,Bank of America,103690000000.0,Financial Services
+1998,16,LLY,Eli Lilly,97410000000.0,Health Care
+1998,17,VZ,Verizon Communications,85100000000.0,Communication Services
+1998,18,HD,Home Depot,84230000000.0,Consumer Cyclical
+1998,19,AIG,AIG,84130000000.0,Financial Services
+1998,20,T,AT&T,78710000000.0,Communication Services
+1999,1,MSFT,Microsoft,604180000000.0,Technology
+1999,2,CSCO,Cisco Systems,355120000000.0,Technology
+1999,3,WMT,Walmart,307840000000.0,Consumer Defensive
+1999,4,GE,General Electric,305130000000.0,Industrials
+1999,5,XOM,Exxon Mobil,280120000000.0,Energy
+1999,6,INTC,Intel,274430000000.0,Technology
+1999,7,C,Citigroup,201160000000.0,Financial Services
+1999,8,IBM,IBM,183820000000.0,Technology
+1999,9,HD,Home Depot,158330000000.0,Consumer Cyclical
+1999,10,ORCL,Oracle,158090000000.0,Technology
+1999,11,KO,Coca-Cola,143970000000.0,Consumer Defensive
+1999,12,PG,Procter & Gamble,142950000000.0,Consumer Defensive
+1999,13,MRK,Merck,140760000000.0,Health Care
+1999,14,AIG,AIG,138930000000.0,Financial Services
+1999,15,JNJ,Johnson & Johnson,129570000000.0,Health Care
+1999,16,,Qualcomm,124700000000.0,Technology
+1999,17,,Bristol-Myers Squibb,121020000000.0,Health Care
+1999,18,PFE,Pfizer,118260000000.0,Health Care
+1999,19,T,AT&T,116700000000.0,Communication Services
+1999,20,VZ,Verizon Communications,95610000000.0,Communication Services
+2000,1,XOM,Exxon Mobil,302200000000.0,Energy
+2000,2,GE,General Electric,284250000000.0,Industrials
+2000,3,CSCO,Cisco Systems,275290000000.0,Technology
+2000,4,PFE,Pfizer,275030000000.0,Health Care
+2000,5,WMT,Walmart,237290000000.0,Consumer Defensive
+2000,6,MSFT,Microsoft,231190000000.0,Technology
+2000,7,C,Citigroup,229400000000.0,Financial Services
+2000,8,INTC,Intel,202320000000.0,Technology
+2000,9,MRK,Merck,194210000000.0,Health Care
+2000,10,AIG,AIG,189310000000.0,Financial Services
+2000,11,ORCL,Oracle,162200000000.0,Technology
+2000,12,KO,Coca-Cola,151130000000.0,Consumer Defensive
+2000,13,JNJ,Johnson & Johnson,146040000000.0,Health Care
+2000,14,IBM,IBM,142410000000.0,Technology
+2000,15,,Bristol-Myers Squibb,137580000000.0,Health Care
+2000,16,VZ,Verizon Communications,135289999999.99998,Communication Services
+2000,17,T,AT&T,121100000000.0,Communication Services
+2000,18,HD,Home Depot,106040000000.0,Consumer Cyclical
+2000,19,LLY,Eli Lilly,104880000000.0,Health Care
+2000,20,PG,Procter & Gamble,101450000000.0,Consumer Defensive
+2001,1,MSFT,Microsoft,358080000000.0,Technology
+2001,2,XOM,Exxon Mobil,267589999999.99997,Energy
+2001,3,C,Citigroup,259910000000.00003,Financial Services
+2001,4,WMT,Walmart,256480000000.00003,Consumer Defensive
+2001,5,GE,General Electric,238240000000.0,Industrials
+2001,6,PFE,Pfizer,237050000000.0,Health Care
+2001,7,INTC,Intel,210400000000.0,Technology
+2001,8,IBM,IBM,199070000000.0,Technology
+2001,9,JNJ,Johnson & Johnson,180080000000.0,Health Care
+2001,10,AIG,AIG,172250000000.0,Financial Services
+2001,11,CSCO,Cisco Systems,132840000000.0,Technology
+2001,12,VZ,Verizon Communications,128949999999.99998,Communication Services
+2001,13,MRK,Merck,120230000000.0,Health Care
+2001,14,HD,Home Depot,119520000000.0,Consumer Cyclical
+2001,15,KO,Coca-Cola,117220000000.0,Consumer Defensive
+2001,16,PG,Procter & Gamble,101710000000.0,Consumer Defensive
+2001,17,,Bristol-Myers Squibb,98740000000.0,Health Care
+2001,18,T,AT&T,98430000000.0,Communication Services
+2001,19,BAC,Bank of America,98170000000.0,Financial Services
+2001,20,CVX,Chevron,95610000000.0,Energy
+2002,1,MSFT,Microsoft,276600000000.0,Technology
+2002,2,XOM,Exxon Mobil,234100000000.0,Energy
+2002,3,WMT,Walmart,222920000000.0,Consumer Defensive
+2002,4,C,Citigroup,180900000000.0,Financial Services
+2002,5,PFE,Pfizer,178520000000.0,Health Care
+2002,6,JNJ,Johnson & Johnson,159410000000.0,Health Care
+2002,7,GE,General Electric,145550000000.0,Industrials
+2002,8,IBM,IBM,127470000000.0,Technology
+2002,9,AIG,AIG,125220000000.0,Financial Services
+2002,10,MRK,Merck,114320000000.0,Health Care
+2002,11,PG,Procter & Gamble,111120000000.0,Consumer Defensive
+2002,12,KO,Coca-Cola,108330000000.0,Consumer Defensive
+2002,13,VZ,Verizon Communications,106410000000.0,Communication Services
+2002,14,BAC,Bank of America,104390000000.0,Financial Services
+2002,15,INTC,Intel,102370000000.0,Technology
+2002,16,CSCO,Cisco Systems,94650000000.0,Technology
+2002,17,WFC,Wells Fargo,79020000000.0,Financial Services
+2002,18,PEP,PepsiCo,72700000000.0,Consumer Defensive
+2002,19,LLY,Eli Lilly,71250000000.0,Health Care
+2002,20,CVX,Chevron,71000000000.0,Energy
+2003,1,MSFT,Microsoft,295320000000.0,Technology
+2003,2,XOM,Exxon Mobil,269290000000.00003,Energy
+2003,3,PFE,Pfizer,255430000000.0,Health Care
+2003,4,C,Citigroup,250320000000.0,Financial Services
+2003,5,WMT,Walmart,229530000000.0,Consumer Defensive
+2003,6,INTC,Intel,207910000000.0,Technology
+2003,7,GE,General Electric,186810000000.0,Industrials
+2003,8,CSCO,Cisco Systems,167260000000.0,Technology
+2003,9,JNJ,Johnson & Johnson,153330000000.0,Health Care
+2003,10,IBM,IBM,150050000000.0,Technology
+2003,11,AIG,AIG,143400000000.0,Financial Services
+2003,12,PG,Procter & Gamble,129100000000.0,Consumer Defensive
+2003,13,KO,Coca-Cola,123910000000.0,Consumer Defensive
+2003,14,BAC,Bank of America,115900000000.0,Financial Services
+2003,15,WFC,Wells Fargo,100000000000.0,Financial Services
+2003,16,MRK,Merck,97890000000.0,Health Care
+2003,17,VZ,Verizon Communications,97100000000.0,Communication Services
+2003,18,CVX,Chevron,92350000000.0,Energy
+2003,19,UPS,United Parcel Service,84170000000.0,Industrials
+2003,20,HD,Home Depot,80740000000.0,Consumer Cyclical
+2004,1,XOM,Exxon Mobil,328120000000.0,Energy
+2004,2,MSFT,Microsoft,290710000000.0,Technology
+2004,3,C,Citigroup,250280000000.0,Financial Services
+2004,4,GE,General Electric,231450000000.0,Industrials
+2004,5,WMT,Walmart,223600000000.0,Consumer Defensive
+2004,6,BAC,Bank of America,190500000000.0,Financial Services
+2004,7,PFE,Pfizer,190440000000.0,Health Care
+2004,8,JNJ,Johnson & Johnson,188420000000.0,Health Care
+2004,9,IBM,IBM,154990000000.0,Technology
+2004,10,INTC,Intel,146260000000.0,Technology
+2004,11,AIG,AIG,141430000000.0,Financial Services
+2004,12,PG,Procter & Gamble,138970000000.0,Consumer Defensive
+2004,13,JPM,JPMorgan Chase,138720000000.0,Financial Services
+2004,14,CSCO,Cisco Systems,127220000000.0,Technology
+2004,15,VZ,Verizon Communications,112210000000.0,Communication Services
+2004,16,CVX,Chevron,110640000000.0,Energy
+2004,17,WFC,Wells Fargo,105310000000.0,Financial Services
+2004,18,KO,Coca-Cola,100330000000.0,Consumer Defensive
+2004,19,UPS,United Parcel Service,96230000000.0,Industrials
+2004,20,HD,Home Depot,93860000000.0,Consumer Cyclical
+2005,1,XOM,Exxon Mobil,349490000000.0,Energy
+2005,2,MSFT,Microsoft,278240000000.0,Technology
+2005,3,C,Citigroup,245510000000.0,Financial Services
+2005,4,GE,General Electric,221590000000.0,Industrials
+2005,5,WMT,Walmart,194840000000.0,Consumer Defensive
+2005,6,BAC,Bank of America,185340000000.0,Financial Services
+2005,7,JNJ,Johnson & Johnson,178800000000.0,Health Care
+2005,8,PFE,Pfizer,162900000000.0,Health Care
+2005,9,INTC,Intel,150480000000.0,Technology
+2005,10,AIG,AIG,146900000000.0,Financial Services
+2005,11,JPM,JPMorgan Chase,138880000000.0,Financial Services
+2005,12,PG,Procter & Gamble,137640000000.0,Consumer Defensive
+2005,13,CVX,Chevron,127450000000.0,Energy
+2005,14,IBM,IBM,124050000000.0,Technology
+2005,15,CSCO,Cisco Systems,105170000000.0,Technology
+2005,16,WFC,Wells Fargo,105050000000.0,Financial Services
+2005,17,PEP,PepsiCo,98130000000.0,Consumer Defensive
+2005,18,AMGN,Amgen,97310000000.0,Health Care
+2005,19,KO,Coca-Cola,95900000000.0,Consumer Defensive
+2005,20,HD,Home Depot,85980000000.0,Consumer Cyclical
+2006,1,XOM,Exxon Mobil,446910000000.0,Energy
+2006,2,MSFT,Microsoft,293520000000.0,Technology
+2006,3,C,Citigroup,273690000000.0,Financial Services
+2006,4,BAC,Bank of America,239770000000.0,Financial Services
+2006,5,GE,General Electric,229550000000.0,Industrials
+2006,6,PG,Procter & Gamble,203670000000.0,Consumer Defensive
+2006,7,WMT,Walmart,192420000000.0,Consumer Defensive
+2006,8,JNJ,Johnson & Johnson,191390000000.0,Health Care
+2006,9,PFE,Pfizer,176970000000.0,Health Care
+2006,10,JPM,JPMorgan Chase,167550000000.0,Financial Services
+2006,11,CSCO,Cisco Systems,165980000000.0,Technology
+2006,12,CVX,Chevron,160300000000.0,Energy
+2006,13,AIG,AIG,154530000000.0,Financial Services
+2006,14,GOOGL,Alphabet,140930000000.0,Communication Services
+2006,15,IBM,IBM,139750000000.0,Technology
+2006,16,WFC,Wells Fargo,120050000000.0,Financial Services
+2006,17,INTC,Intel,116760000000.0,Technology
+2006,18,KO,Coca-Cola,113100000000.0,Consumer Defensive
+2006,19,VZ,Verizon Communications,108740000000.0,Communication Services
+2006,20,T,AT&T,104020000000.0,Communication Services
+2007,1,XOM,Exxon Mobil,504240000000.0,Energy
+2007,2,MSFT,Microsoft,332110000000.0,Technology
+2007,3,PG,Procter & Gamble,225910000000.0,Consumer Defensive
+2007,4,GE,General Electric,221410000000.0,Industrials
+2007,5,GOOGL,Alphabet,216300000000.0,Communication Services
+2007,6,CVX,Chevron,195060000000.0,Energy
+2007,7,WMT,Walmart,190280000000.0,Consumer Defensive
+2007,8,T,AT&T,190180000000.0,Communication Services
+2007,9,JNJ,Johnson & Johnson,189430000000.0,Health Care
+2007,10,BAC,Bank of America,183280000000.0,Financial Services
+2007,11,AAPL,Apple,174030000000.0,Technology
+2007,12,CSCO,Cisco Systems,164230000000.0,Technology
+2007,13,C,Citigroup,161250000000.0,Financial Services
+2007,14,INTC,Intel,154310000000.0,Technology
+2007,15,JPM,JPMorgan Chase,146970000000.0,Financial Services
+2007,16,PFE,Pfizer,145640000000.0,Health Care
+2007,17,IBM,IBM,142900000000.0,Technology
+2007,18,KO,Coca-Cola,142260000000.0,Consumer Defensive
+2007,19,VZ,Verizon Communications,125700000000.0,Communication Services
+2007,20,AIG,AIG,122330000000.0,Financial Services
+2008,1,XOM,Exxon Mobil,406100000000.0,Energy
+2008,2,WMT,Walmart,219940000000.0,Consumer Defensive
+2008,3,PG,Procter & Gamble,181190000000.0,Consumer Defensive
+2008,4,MSFT,Microsoft,172940000000.0,Technology
+2008,5,JNJ,Johnson & Johnson,166030000000.0,Health Care
+2008,6,CVX,Chevron,148230000000.0,Energy
+2008,7,T,AT&T,127160000000.0,Communication Services
+2008,8,JPM,JPMorgan Chase,117670000000.0,Financial Services
+2008,9,PFE,Pfizer,113170000000.0,Health Care
+2008,10,IBM,IBM,107640000000.0,Technology
+2008,11,KO,Coca-Cola,104730000000.0,Consumer Defensive
+2008,12,VZ,Verizon Communications,100620000000.0,Communication Services
+2008,13,WFC,Wells Fargo,98020000000.0,Financial Services
+2008,14,GOOGL,Alphabet,96850000000.0,Communication Services
+2008,15,GE,General Electric,96450000000.0,Industrials
+2008,16,CSCO,Cisco Systems,95440000000.0,Technology
+2008,17,ORCL,Oracle,89470000000.0,Technology
+2008,18,PM,Philip Morris International,88020000000.0,Consumer Defensive
+2008,19,PEP,PepsiCo,85060000000.0,Consumer Defensive
+2008,20,INTC,Intel,81540000000.0,Technology
+2009,1,XOM,Exxon Mobil,322330000000.0,Energy
+2009,2,MSFT,Microsoft,268560000000.0,Technology
+2009,3,WMT,Walmart,203640000000.0,Consumer Defensive
+2009,4,GOOGL,Alphabet,197030000000.0,Communication Services
+2009,5,AAPL,Apple,191010000000.0,Technology
+2009,6,JNJ,Johnson & Johnson,177710000000.0,Health Care
+2009,7,PG,Procter & Gamble,176130000000.0,Consumer Defensive
+2009,8,,JPMorgan Chase,164260000000.0,Financial Services
+2009,9,,IBM,163170000000.0,Technology
+2009,10,CVX,Chevron,154600000000.0,Energy
+2009,11,,Wells Fargo,139780000000.0,Financial Services
+2009,12,PFE,Pfizer,139110000000.0,Health Care
+2009,13,,Cisco Systems,137730000000.0,Technology
+2009,14,KO,Coca-Cola,131270000000.00002,Consumer Defensive
+2009,15,BAC,Bank of America,130270000000.00002,Financial Services
+2009,16,T,AT&T,125250000000.0,Communication Services
+2009,17,,Oracle,122920000000.0,Technology
+2009,18,INTC,Intel,112670000000.0,Technology
+2009,19,,Merck,108290000000.0,Health Care
+2009,20,VZ,Verizon Communications,98330000000.0,Communication Services
+2010,1,XOM,Exxon Mobil,364060000000.0,Energy
+2010,2,AAPL,Apple,297100000000.0,Technology
+2010,3,MSFT,Microsoft,234530000000.0,Technology
+2010,4,BRK-B,Berkshire Hathaway,198030000000.0,Financial Services
+2010,5,WMT,Walmart,192170000000.0,Consumer Defensive
+2010,6,GOOGL,Alphabet,190850000000.0,Communication Services
+2010,7,CVX,Chevron,183140000000.0,Energy
+2010,8,PG,Procter & Gamble,180190000000.0,Consumer Defensive
+2010,9,,IBM,172140000000.0,Technology
+2010,10,JNJ,Johnson & Johnson,169840000000.0,Health Care
+2010,11,,JPMorgan Chase,165860000000.0,Financial Services
+2010,12,,Wells Fargo,163070000000.0,Financial Services
+2010,13,,Oracle,158130000000.0,Technology
+2010,14,KO,Coca-Cola,150740000000.0,Consumer Defensive
+2010,15,,Citigroup,137450000000.0,Financial Services
+2010,16,BAC,Bank of America,134600000000.0,Financial Services
+2010,17,PFE,Pfizer,132949999999.99998,Health Care
+2010,18,T,AT&T,131479999999.99998,Communication Services
+2010,19,,General Electric,116160000000.0,Industrials
+2010,20,INTC,Intel,115900000000.0,Technology
+2011,1,XOM,Exxon Mobil,406250000000.0,Energy
+2011,2,AAPL,Apple,377520000000.0,Technology
+2011,3,MSFT,Microsoft,218380000000.0,Technology
+2011,4,CVX,Chevron,211840000000.0,Energy
+2011,5,GOOGL,Alphabet,209150000000.0,Communication Services
+2011,6,,IBM,207070000000.0,Technology
+2011,7,WMT,Walmart,204580000000.0,Consumer Defensive
+2011,8,BRK-B,Berkshire Hathaway,188920000000.0,Financial Services
+2011,9,PG,Procter & Gamble,183520000000.0,Consumer Defensive
+2011,10,JNJ,Johnson & Johnson,179100000000.0,Health Care
+2011,11,KO,Coca-Cola,158900000000.0,Consumer Defensive
+2011,12,PFE,Pfizer,157640000000.0,Health Care
+2011,13,,Wells Fargo,145350000000.0,Financial Services
+2011,14,,Philip Morris International,136320000000.0,Consumer Defensive
+2011,15,T,AT&T,135680000000.0,Communication Services
+2011,16,,Oracle,128919999999.99998,Technology
+2011,17,,JPMorgan Chase,126350000000.0,Financial Services
+2011,18,INTC,Intel,123480000000.0,Technology
+2011,19,VZ,Verizon Communications,113580000000.0,Communication Services
+2011,20,,General Electric,113140000000.0,Industrials
+2012,1,AAPL,Apple,499670000000.0,Technology
+2012,2,XOM,Exxon Mobil,389650000000.0,Energy
+2012,3,GOOGL,Alphabet,233480000000.0,Communication Services
+2012,4,WMT,Walmart,228340000000.0,Consumer Defensive
+2012,5,MSFT,Microsoft,223670000000.0,Technology
+2012,6,BRK-B,Berkshire Hathaway,221020000000.0,Financial Services
+2012,7,CVX,Chevron,210550000000.0,Energy
+2012,8,,IBM,204370000000.0,Technology
+2012,9,JNJ,Johnson & Johnson,194740000000.0,Health Care
+2012,10,PG,Procter & Gamble,185480000000.0,Consumer Defensive
+2012,11,,Wells Fargo,179990000000.0,Financial Services
+2012,12,PFE,Pfizer,172930000000.0,Health Care
+2012,13,,JPMorgan Chase,167260000000.0,Financial Services
+2012,14,KO,Coca-Cola,162000000000.0,Consumer Defensive
+2012,15,,Oracle,157740000000.0,Technology
+2012,16,T,AT&T,142440000000.0,Communication Services
+2012,17,,Philip Morris International,138340000000.0,Consumer Defensive
+2012,18,,General Electric,130690000000.0,Industrials
+2012,19,BAC,Bank of America,125160000000.0,Financial Services
+2012,20,VZ,Verizon Communications,123710000000.0,Communication Services
+2013,1,AAPL,Apple,500710000000.0,Technology
+2013,2,XOM,Exxon Mobil,438700000000.0,Energy
+2013,3,GOOGL,Alphabet,376360000000.0,Communication Services
+2013,4,MSFT,Microsoft,310500000000.0,Technology
+2013,5,BRK-B,Berkshire Hathaway,292370000000.0,Financial Services
+2013,6,JNJ,Johnson & Johnson,258380000000.0,Health Care
+2013,7,WMT,Walmart,254610000000.0,Consumer Defensive
+2013,8,CVX,Chevron,239080000000.0,Energy
+2013,9,,Wells Fargo,238670000000.0,Financial Services
+2013,10,PG,Procter & Gamble,220700000000.0,Consumer Defensive
+2013,11,,JPMorgan Chase,219650000000.0,Financial Services
+2013,12,,IBM,188830000000.0,Technology
+2013,13,PFE,Pfizer,185750000000.0,Health Care
+2013,14,AMZN,Amazon,183040000000.0,Consumer Cyclical
+2013,15,KO,Coca-Cola,181850000000.0,Consumer Defensive
+2013,16,,Oracle,172060000000.0,Technology
+2013,17,,General Electric,168760000000.0,Industrials
+2013,18,BAC,Bank of America,164890000000.0,Financial Services
+2013,19,,Citigroup,157840000000.0,Financial Services
+2013,20,VZ,Verizon Communications,140640000000.0,Communication Services
+2014,1,AAPL,Apple,643240000000.0,Technology
+2014,2,XOM,Exxon Mobil,388380000000.0,Energy
+2014,3,MSFT,Microsoft,381730000000.0,Technology
+2014,4,BRK-B,Berkshire Hathaway,369970000000.0,Financial Services
+2014,5,GOOGL,Alphabet,361380000000.0,Communication Services
+2014,6,JNJ,Johnson & Johnson,291020000000.0,Health Care
+2014,7,,Wells Fargo,283420000000.0,Financial Services
+2014,8,WMT,Walmart,276820000000.0,Consumer Defensive
+2014,9,PG,Procter & Gamble,246030000000.0,Consumer Defensive
+2014,10,,JPMorgan Chase,232480000000.0,Financial Services
+2014,11,META,Facebook,216740000000.0,Communication Services
+2014,12,CVX,Chevron,210900000000.0,Energy
+2014,13,,Oracle,197460000000.0,Technology
+2014,14,VZ,Verizon Communications,194370000000.0,Communication Services
+2014,15,BAC,Bank of America,188200000000.0,Financial Services
+2014,16,PFE,Pfizer,185710000000.0,Health Care
+2014,17,KO,Coca-Cola,184330000000.0,Consumer Defensive
+2014,18,INTC,Intel,172300000000.0,Technology
+2014,19,,Citigroup,163630000000.0,Financial Services
+2014,20,,Walt Disney,160120000000.0,Communication Services
+2015,1,AAPL,Apple,583670000000.0,Technology
+2015,2,GOOGL,Alphabet,534880000000.0,Communication Services
+2015,3,MSFT,Microsoft,439680000000.0,Technology
+2015,4,BRK-B,Berkshire Hathaway,325480000000.0,Financial Services
+2015,5,XOM,Exxon Mobil,323960000000.0,Energy
+2015,6,AMZN,Amazon,318340000000.0,Consumer Cyclical
+2015,7,META,Facebook,296610000000.0,Communication Services
+2015,8,JNJ,Johnson & Johnson,284230000000.0,Health Care
+2015,9,,Wells Fargo,276800000000.0,Financial Services
+2015,10,,JPMorgan Chase,241870000000.0,Financial Services
+2015,11,PG,Procter & Gamble,214800000000.0,Consumer Defensive
+2015,12,WMT,Walmart,196280000000.0,Consumer Defensive
+2015,13,PFE,Pfizer,188900000000.0,Health Care
+2015,14,VZ,Verizon Communications,188250000000.0,Communication Services
+2015,15,KO,Coca-Cola,185760000000.0,Consumer Defensive
+2015,16,V,Visa,184880000000.0,Financial Services
+2015,17,,General Electric,174720000000.0,Industrials
+2015,18,BAC,Bank of America,174700000000.0,Financial Services
+2015,19,,Walt Disney,173700000000.0,Communication Services
+2015,20,CVX,Chevron,169390000000.0,Energy
+2016,1,AAPL,Apple,608920000000.0,Technology
+2016,2,GOOGL,Alphabet,546000000000.0,Communication Services
+2016,3,MSFT,Microsoft,483140000000.0,Technology
+2016,4,BRK-B,Berkshire Hathaway,401910000000.0,Financial Services
+2016,5,,Exxon Mobil,374310000000.0,Energy
+2016,6,AMZN,Amazon,356300000000.0,Consumer Cyclical
+2016,7,META,Facebook,331570000000.0,Communication Services
+2016,8,,Johnson & Johnson,313490000000.0,Health Care
+2016,9,,JPMorgan Chase,308750000000.0,Financial Services
+2016,10,,Wells Fargo,276760000000.0,Financial Services
+2016,11,PG,Procter & Gamble,225000000000.0,Consumer Defensive
+2016,12,BAC,Bank of America,223430000000.0,Financial Services
+2016,13,CVX,Chevron,222220000000.0,Energy
+2016,14,VZ,Verizon Communications,217630000000.0,Communication Services
+2016,15,WMT,Walmart,212430000000.0,Consumer Defensive
+2016,16,T,AT&T,197740000000.0,Communication Services
+2016,17,PFE,Pfizer,186780000000.0,Health Care
+2016,18,V,Visa,180460000000.0,Financial Services
+2016,19,KO,Coca-Cola,178820000000.0,Consumer Defensive
+2016,20,INTC,Intel,171880000000.0,Technology
+2017,1,AAPL,Apple,860960000000.0,Technology
+2017,2,GOOGL,Alphabet,732110000000.0,Communication Services
+2017,3,MSFT,Microsoft,659940000000.0,Technology
+2017,4,AMZN,Amazon,563510000000.0,Consumer Cyclical
+2017,5,META,Facebook,512789999999.99994,Communication Services
+2017,6,BRK-B,Berkshire Hathaway,489010000000.0,Financial Services
+2017,7,,Johnson & Johnson,375430000000.0,Health Care
+2017,8,,JPMorgan Chase,371080000000.0,Financial Services
+2017,9,,Exxon Mobil,354380000000.0,Energy
+2017,10,,Bank of America,307890000000.0,Financial Services
+2017,11,,Wells Fargo,298740000000.0,Financial Services
+2017,12,WMT,Walmart,292530000000.0,Consumer Defensive
+2017,13,,Visa,256769999999.99997,Financial Services
+2017,14,CVX,Chevron,237740000000.0,Energy
+2017,15,PG,Procter & Gamble,233100000000.0,Consumer Defensive
+2017,16,HD,Home Depot,221370000000.0,Consumer Cyclical
+2017,17,,Intel,216030000000.0,Technology
+2017,18,,Verizon Communications,215900000000.0,Communication Services
+2017,19,UNH,UnitedHealth Group,213640000000.0,Health Care
+2017,20,PFE,Pfizer,204610000000.0,Health Care
+2018,1,MSFT,Microsoft,780360000000.0,Technology
+2018,2,AAPL,Apple,746110000000.0,Technology
+2018,3,AMZN,Amazon,737470000000.0,Consumer Cyclical
+2018,4,GOOGL,Alphabet,726770000000.0,Communication Services
+2018,5,BRK-B,Berkshire Hathaway,502490000000.0,Financial Services
+2018,6,META,Facebook,374130000000.0,Communication Services
+2018,7,,Johnson & Johnson,343530000000.0,Health Care
+2018,8,,JPMorgan Chase,319800000000.0,Financial Services
+2018,9,,Visa,289210000000.0,Financial Services
+2018,10,,Exxon Mobil,288920000000.0,Energy
+2018,11,WMT,Walmart,270630000000.0,Consumer Defensive
+2018,12,UNH,UnitedHealth Group,239160000000.0,Health Care
+2018,13,,Bank of America,238240000000.0,Financial Services
+2018,14,PFE,Pfizer,236490000000.0,Health Care
+2018,15,,Verizon Communications,232300000000.0,Communication Services
+2018,16,PG,Procter & Gamble,229980000000.0,Consumer Defensive
+2018,17,,Intel,211940000000.0,Technology
+2018,18,,Wells Fargo,211090000000.0,Financial Services
+2018,19,CVX,Chevron,207030000000.0,Energy
+2018,20,,Coca-Cola,202090000000.0,Consumer Defensive
+2019,1,AAPL,Apple,1288000000000.0,Technology
+2019,2,MSFT,Microsoft,1200000000000.0,Technology
+2019,3,GOOGL,Alphabet,922170000000.0,Communication Services
+2019,4,AMZN,Amazon,920220000000.0,Consumer Cyclical
+2019,5,META,Facebook,585370000000.0,Communication Services
+2019,6,BRK-B,Berkshire Hathaway,551980000000.0,Financial Services
+2019,7,,JPMorgan Chase,429910000000.0,Financial Services
+2019,8,,Visa,402670000000.0,Financial Services
+2019,9,,Johnson & Johnson,384080000000.0,Health Care
+2019,10,WMT,Walmart,337190000000.0,Consumer Defensive
+2019,11,,Bank of America,311200000000.0,Financial Services
+2019,12,PG,Procter & Gamble,308380000000.0,Consumer Defensive
+2019,13,MA,Mastercard,300680000000.0,Financial Services
+2019,14,,Exxon Mobil,295450000000.0,Energy
+2019,15,UNH,UnitedHealth Group,278690000000.0,Health Care
+2019,16,,Walt Disney,257589999999.99997,Communication Services
+2019,17,,Intel,256760000000.0,Technology
+2019,18,,Verizon Communications,253950000000.0,Communication Services
+2019,19,HD,Home Depot,238250000000.0,Consumer Cyclical
+2019,20,,Coca-Cola,236900000000.0,Consumer Defensive
+2020,1,AAPL,Apple,2232000000000.0,Technology
+2020,2,MSFT,Microsoft,1678000000000.0,Technology
+2020,3,AMZN,Amazon,1638000000000.0,Consumer Cyclical
+2020,4,GOOGL,Alphabet,1183000000000.0,Communication Services
+2020,5,META,Facebook,778230000000.0,Communication Services
+2020,6,TSLA,Tesla,677440000000.0,Consumer Cyclical
+2020,7,BRK-B,Berkshire Hathaway,537010000000.0,Financial Services
+2020,8,,Visa,465890000000.0,Financial Services
+2020,9,,Johnson & Johnson,414380000000.0,Health Care
+2020,10,WMT,Walmart,407850000000.0,Consumer Defensive
+2020,11,,JPMorgan Chase,387440000000.0,Financial Services
+2020,12,MA,Mastercard,355320000000.0,Financial Services
+2020,13,PG,Procter & Gamble,342560000000.0,Consumer Defensive
+2020,14,UNH,UnitedHealth Group,331740000000.0,Health Care
+2020,15,NVDA,NVIDIA,323240000000.0,Technology
+2020,16,,Walt Disney,322680000000.0,Communication Services
+2020,17,HD,Home Depot,286070000000.0,Consumer Cyclical
+2020,18,,PayPal Holdings,274480000000.00003,Financial Services
+2020,19,,Bank of America,262209999999.99997,Financial Services
+2020,20,,Verizon Communications,243110000000.0,Communication Services
+2021,1,AAPL,Apple,2902000000000.0,Technology
+2021,2,MSFT,Microsoft,2522000000000.0,Technology
+2021,3,GOOGL,Alphabet,1918000000000.0,Communication Services
+2021,4,AMZN,Amazon,1697000000000.0,Consumer Cyclical
+2021,5,TSLA,Tesla,1092000000000.0001,Consumer Cyclical
+2021,6,META,Meta Platforms,921940000000.0,Communication Services
+2021,7,NVDA,NVIDIA,735270000000.0,Technology
+2021,8,BRK-B,Berkshire Hathaway,662580000000.0,Financial Services
+2021,9,UNH,UnitedHealth Group,472510000000.0,Health Care
+2021,10,,JPMorgan Chase,466180000000.0,Financial Services
+2021,11,,Visa,453140000000.0,Financial Services
+2021,12,,Johnson & Johnson,450430000000.0,Health Care
+2021,13,HD,Home Depot,433270000000.0,Consumer Cyclical
+2021,14,WMT,Walmart,401370000000.0,Consumer Defensive
+2021,15,PG,Procter & Gamble,392100000000.0,Consumer Defensive
+2021,16,,Bank of America,359390000000.0,Financial Services
+2021,17,MA,Mastercard,352130000000.0,Financial Services
+2021,18,PFE,Pfizer,331860000000.0,Health Care
+2021,19,,Walt Disney,281590000000.0,Communication Services
+2021,20,AVGO,Broadcom,274750000000.0,Technology
+2022,1,AAPL,Apple,2067000000000.0002,Technology
+2022,2,MSFT,Microsoft,1788000000000.0,Technology
+2022,3,GOOGL,Alphabet,1148000000000.0,Communication Services
+2022,4,AMZN,Amazon,856800000000.0,Consumer Cyclical
+2022,5,BRK-B,Berkshire Hathaway,678650000000.0,Financial Services
+2022,6,,UnitedHealth Group,495370000000.0,Health Care
+2022,7,,Johnson & Johnson,461760000000.0,Health Care
+2022,8,,Exxon Mobil,454220000000.0,Energy
+2022,9,,Visa,432350000000.0,Financial Services
+2022,10,,JPMorgan Chase,393320000000.0,Financial Services
+2022,11,TSLA,Tesla,389000000000.0,Consumer Cyclical
+2022,12,WMT,Walmart,382360000000.0,Consumer Defensive
+2022,13,NVDA,NVIDIA,359500000000.0,Technology
+2022,14,PG,Procter & Gamble,359200000000.0,Consumer Defensive
+2022,15,LLY,Eli Lilly,347610000000.0,Health Care
+2022,16,CVX,Chevron,344440000000.0,Energy
+2022,17,MA,Mastercard,334330000000.0,Financial Services
+2022,18,HD,Home Depot,321860000000.0,Consumer Cyclical
+2022,19,META,Meta Platforms,315530000000.0,Communication Services
+2022,20,PFE,Pfizer,287610000000.0,Health Care
+2023,1,AAPL,Apple,2994000000000.0,Technology
+2023,2,MSFT,Microsoft,2795000000000.0,Technology
+2023,3,GOOGL,Alphabet,1764000000000.0,Communication Services
+2023,4,AMZN,Amazon,1570000000000.0,Consumer Cyclical
+2023,5,NVDA,NVIDIA,1223000000000.0,Technology
+2023,6,META,Meta Platforms,909680000000.0,Communication Services
+2023,7,TSLA,Tesla,789920000000.0,Consumer Cyclical
+2023,8,BRK-B,Berkshire Hathaway,772530000000.0,Financial Services
+2023,9,,Eli Lilly,553370000000.0,Health Care
+2023,10,,Visa,525650000000.0,Financial Services
+2023,11,AVGO,Broadcom,522520000000.0,Technology
+2023,12,,JPMorgan Chase,491760000000.0,Financial Services
+2023,13,,UnitedHealth Group,486950000000.0,Health Care
+2023,14,WMT,Walmart,424450000000.0,Consumer Defensive
+2023,15,,Mastercard,400130000000.0,Financial Services
+2023,16,,Exxon Mobil,399620000000.0,Energy
+2023,17,,Johnson & Johnson,377270000000.0,Health Care
+2023,18,,Procter & Gamble,345390000000.0,Consumer Defensive
+2023,19,,Home Depot,344910000000.0,Consumer Cyclical
+2023,20,,Costco Wholesale,292900000000.0,Consumer Cyclical
+2024,1,AAPL,Apple,3766000000000.0,Technology
+2024,2,NVDA,NVIDIA,3289000000000.0,Technology
+2024,3,MSFT,Microsoft,3134000000000.0,Technology
+2024,4,GOOGL,Alphabet,2325000000000.0,Communication Services
+2024,5,AMZN,Amazon,2323000000000.0,Consumer Cyclical
+2024,6,META,Meta Platforms,1484000000000.0,Communication Services
+2024,7,TSLA,Tesla,1299000000000.0,Consumer Cyclical
+2024,8,AVGO,Broadcom,1087000000000.0,Technology
+2024,9,BRK-B,Berkshire Hathaway,977720000000.0,Financial Services
+2024,10,WMT,Walmart,725780000000.0,Consumer Defensive
+2024,11,,Eli Lilly,692900000000.0,Health Care
+2024,12,,JPMorgan Chase,670710000000.0,Financial Services
+2024,13,,Visa,622600000000.0,Financial Services
+2024,14,,Mastercard,480970000000.0,Financial Services
+2024,15,,Exxon Mobil,468250000000.0,Energy
+2024,16,,Oracle,466090000000.0,Technology
+2024,17,,UnitedHealth Group,462860000000.0,Health Care
+2024,18,,Costco Wholesale,406730000000.0,Consumer Cyclical
+2024,19,,Procter & Gamble,393140000000.0,Consumer Defensive
+2024,20,,Home Depot,386410000000.0,Consumer Cyclical
+2025,1,NVDA,NVIDIA,4533000000000.0,Technology
+2025,2,AAPL,Apple,4017000000000.0005,Technology
+2025,3,GOOGL,Alphabet,3777000000000.0,Communication Services
+2025,4,MSFT,Microsoft,3594000000000.0,Technology
+2025,5,AMZN,Amazon,2468000000000.0,Consumer Cyclical
+2025,6,META,Meta Platforms,1664000000000.0,Communication Services
+2025,7,AVGO,Broadcom,1641000000000.0,Technology
+2025,8,TSLA,Tesla,1496000000000.0,Consumer Cyclical
+2025,9,BRK-B,Berkshire Hathaway,1084000000000.0001,Financial Services
+2025,10,,Eli Lilly,961860000000.0,Health Care
+2025,11,WMT,Walmart,887960000000.0,Consumer Defensive
+2025,12,,JPMorgan Chase,877170000000.0,Financial Services
+2025,13,,Visa,676180000000.0,Financial Services
+2025,14,,Oracle,560000000000.0,Technology
+2025,15,,Mastercard,512650000000.0,Financial Services
+2025,16,,Exxon Mobil,507490000000.0,Energy
+2025,17,,Johnson & Johnson,498600000000.0,Health Care
+2025,18,,Palantir Technologies,423660000000.0,Technology
+2025,19,,AbbVie,403830000000.0,Health Care
+2025,20,,Bank of America,401640000000.0,Financial Services
+2026,1,NVDA,NVIDIA,4600000000000.0,Technology
+2026,2,GOOGL,Alphabet,3887000000000.0,Communication Services
+2026,3,AAPL,Apple,3805000000000.0,Technology
+2026,4,MSFT,Microsoft,2854000000000.0,Technology
+2026,5,AMZN,Amazon,2575000000000.0,Consumer Cyclical
+2026,6,AVGO,Broadcom,1798000000000.0,Technology
+2026,7,META,Meta Platforms,1605000000000.0,Communication Services
+2026,8,TSLA,Tesla,1322000000000.0,Consumer Cyclical
+2026,9,BRK-B,Berkshire Hathaway,1036000000000.0,Financial Services
+2026,10,WMT,Walmart,993120000000.0,Consumer Defensive
+2026,11,,JPMorgan Chase,841360000000.0,Financial Services
+2026,12,,Eli Lilly,830420000000.0,Health Care
+2026,13,,Exxon Mobil,636010000000.0,Energy
+2026,14,,Visa,595030000000.0,Financial Services
+2026,15,,Johnson & Johnson,573150000000.0,Health Care
+2026,16,,Micron Technology,481050000000.0,Technology
+2026,17,,Mastercard,453560000000.0,Financial Services
+2026,18,,Oracle,447570000000.0,Technology
+2026,19,,Netflix,435560000000.0,Communication Services
+2026,20,,Costco Wholesale,435160000000.0,Consumer Defensive
